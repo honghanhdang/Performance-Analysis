@@ -14,13 +14,12 @@ Hi, I'm **Hong Hanh**, an aspiring Business Analyst. This portfolio showcases my
   
  [View BB Store Project](https://github.com/honghanhdang/Performance-Analysis/tree/BBSTORES)
 
-###  2. Retailer Performance Analysis - ADIDAS
+###  2. Retailer Dashboard - ADIDAS
 - **Objective:** Analyze Adidas retailer performance, evaluate sales trends and channel contributions, and deliver actionable insights to improve inventory and sales strategy.
 - **Tools Used:** Excel, Power BI
 - **Key Highlights:**
   - Data cleaning and preparation
   - Visualization of sales, profit, product performance, and sales channel metrics
-  - Insights to improve inventory management and sales effectiveness
     
 [View ADIDAS Project](https://github.com/honghanhdang/Performance-Analysis/tree/ADIDAS)
 
