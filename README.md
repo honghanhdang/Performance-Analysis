@@ -33,7 +33,8 @@ Hi, I'm **Hong Hanh**, an aspiring Business Analyst. This portfolio showcases my
   - Identification of top and low-performing posts
   - Insights to improve content strategy and boost audience interaction
     
-[View SPARTAN RACE Project](https://github.com/honghanhdang/Performance-Analysis/tree/SPARTAN-RACE)   
+[View SPARTAN RACE Project](https://github.com/honghanhdang/Performance-Analysis/tree/SPARTAN-RACE)
+
 ---
 
 ✨ Author 
